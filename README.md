@@ -3,7 +3,7 @@
 
 <h5 align="left"> As a highly skilled and experienced software engineer, I am dedicated to developing innovative and efficient solutions to complex problems. With a strong background in computer science and extensive experience in software development, I have a proven track record of delivering high-quality products that meet or exceed customer expectations. My skills include proficiency in multiple programming languages, expertise in software architecture design, and proven ability to work collaboratively with cross-functional teams to achieve project goals. Additionally, I am committed to staying up-to-date with the latest industry trends and technologies, ensuring that my work remains cutting-edge and relevant.</h5>
 
-- 💬 Ask me about **C++ , Java ,python , C# , react , nodejs , javascript , HTML ,CSS**
+- 💬 Ask me about **C++ , Java , python , C# , react , nodejs , javascript , HTML , CSS**
 
 - 📫 How to reach me **hamdyfathi2@gmail.com**
 
